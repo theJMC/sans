@@ -2,13 +2,9 @@
 
 ### What is it? 
 ---
-Sans is a backbone system for a Smart Home network, with its components listed below
+Sans is a backbone system for a Smart Home network, with its components listed below:
 
-## Content:
-- [Device Registry](#device-registry)
-
-### Device Registry:
----
-
-### Controller:
----
+## Contents:
+(All links to respective READMEs in their respective folders)
+- [Device Registry](device-registry/README.md)
+- [Controller](controller/README.md)
